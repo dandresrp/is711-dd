@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "titulo": "Comprar víveres",
+    "descripcion": "Comprar leche, pan y huevos en el supermercado.",
+    "completada": false,
+    "fecha_creacion": "2025-02-19T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Hacer ejercicio",
+    "descripcion": "Correr 5 km en el parque.",
+    "completada": true,
+    "fecha_creacion": "2025-02-18T08:30:00Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Estudiar JavaScript",
+    "descripcion": "Repasar closures y promesas en JavaScript.",
+    "completada": false,
+    "fecha_creacion": "2025-02-17T15:45:00Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Llamar a mamá",
+    "descripcion": "Hablar con mamá sobre el fin de semana.",
+    "completada": true,
+    "fecha_creacion": "2025-02-16T19:00:00Z"
+  },
+  {
+    "id": 5,
+    "titulo": "Enviar informe",
+    "descripcion": "Enviar informe mensual al jefe.",
+    "completada": false,
+    "fecha_creacion": "2025-02-15T09:15:00Z"
+  },
+  {
+    "id": 6,
+    "titulo": "Reunión con el equipo",
+    "descripcion": "Discutir avances del proyecto.",
+    "completada": false,
+    "fecha_creacion": "2025-02-14T14:00:00Z"
+  },
+  {
+    "id": 7,
+    "titulo": "Pagar facturas",
+    "descripcion": "Pagar agua, luz e internet.",
+    "completada": true,
+    "fecha_creacion": "2025-02-13T11:30:00Z"
+  },
+  {
+    "id": 8,
+    "titulo": "Leer un libro",
+    "descripcion": "Avanzar 50 páginas en 'El arte de la guerra'.",
+    "completada": false,
+    "fecha_creacion": "2025-02-12T21:00:00Z"
+  },
+  {
+    "id": 9,
+    "titulo": "Lavar el coche",
+    "descripcion": "Lavar y aspirar el coche en casa.",
+    "completada": false,
+    "fecha_creacion": "2025-02-11T10:00:00Z"
+  },
+  {
+    "id": 10,
+    "titulo": "Organizar escritorio",
+    "descripcion": "Limpiar y organizar el escritorio de trabajo.",
+    "completada": true,
+    "fecha_creacion": "2025-02-10T16:00:00Z"
+  }
+]
