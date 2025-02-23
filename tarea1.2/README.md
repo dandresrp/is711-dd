@@ -37,4 +37,4 @@ Asegúrate de tener instalado lo siguiente:
    npm run start
    ```
 
-2. El servidor estará ejecutándose en http://localhost:3000 (o el puerto que hayas configurado en el código).
+2. El servidor estará ejecutándose en http://localhost:3000
