@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "titulo": "Comprar comida",
+    "descripcion": "Comprar frutas, verduras y carne en el supermercado",
+    "completada": false,
+    "fecha_creacion": "2025-02-21T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Terminar proyecto API",
+    "descripcion": "Completar la tarea de la API en Node.js para la clase de Sistemas de Información",
+    "completada": false,
+    "fecha_creacion": "2025-02-20T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "titulo": "Llamar al doctor",
+    "descripcion": "Agendar una cita con el doctor para el próximo lunes",
+    "completada": true,
+    "fecha_creacion": "2025-02-18T09:20:00Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Limpiar la casa",
+    "descripcion": "Barrer y trapear el piso, limpiar ventanas y organizar la sala",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "titulo": "Enviar correo al cliente",
+    "descripcion": "Enviar los detalles finales del proyecto al cliente antes del viernes",
+    "completada": false,
+    "fecha_creacion": "2025-02-19T14:30:00Z"
+  },
+  {
+    "id": 6,
+    "titulo": "Revisar tarea de matemáticas",
+    "descripcion": "Revisar la tarea de álgebra antes de entregarla el jueves",
+    "completada": true,
+    "fecha_creacion": "2025-02-15T08:15:00Z"
+  },
+  {
+    "id": 7,
+    "titulo": "Leer libro",
+    "descripcion": "Leer al menos 50 páginas del libro de programación avanzada",
+    "completada": false,
+    "fecha_creacion": "2025-02-21T18:00:00Z"
+  },
+  {
+    "id": 8,
+    "titulo": "Actualizar software",
+    "descripcion": "Actualizar el sistema operativo y las aplicaciones en la computadora",
+    "completada": false,
+    "fecha_creacion": "2025-02-22T07:30:00Z"
+  },
+  {
+    "id": 9,
+    "titulo": "Hacer ejercicio",
+    "descripcion": "Completar una rutina de 30 minutos de cardio en casa",
+    "completada": true,
+    "fecha_creacion": "2025-02-17T06:00:00Z"
+  },
+  {
+    "id": 10,
+    "titulo": "Planear vacaciones",
+    "descripcion": "Organizar el itinerario para las vacaciones de verano",
+    "completada": false,
+    "fecha_creacion": "2025-02-20T12:45:00Z"
+  }
+]

@@ -1,0 +1,29 @@
+### Obtener todas las tareas
+GET http://localhost:3000/tareas
+
+### Obtener tarea por ID
+GET http://localhost:3000/tareas/3
+
+### Crear tarea
+POST http://localhost:3000/tareas
+Content-Type: application/json
+
+{
+    "titulo": "Caminar al perro",
+    "descripcion": "Caminar al perro por el parque",
+    "completada": false,
+    "fecha_creacion": "2025-02-21T10:30:00Z"
+}
+
+### Editar tarea
+PUT http://localhost:3000/tareas/4
+Content-Type: application/json
+
+{
+    "titulo": "Salir a correr",
+    "descripcion": "Salir a correr por el parque",
+    "completada": true
+}
+
+### Eliminar tarea
+DELETE http://localhost:3000/tareas/11
